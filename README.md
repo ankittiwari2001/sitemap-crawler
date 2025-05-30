@@ -1,9 +1,3 @@
-Perfect! Here's a complete and polished version of your `README.md` with both tools (`index.py` and `merge_json.py`) documented clearly under one project:
-
----
-
-### 📄 `README.md`
-
 ````markdown
 # 🕷️ sitemap-crawler
 
