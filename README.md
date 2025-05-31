@@ -1,4 +1,3 @@
-
 # 🕷️ sitemap-crawler
 
 A simple interactive Python script to crawl sitemap XML files and extract URLs.
