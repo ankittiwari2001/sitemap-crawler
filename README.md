@@ -78,14 +78,3 @@ pip install -r requirements.txt
 
 ---
 
-## 📝 License
-
-MIT License
-
-```
-
----
-
-Let me know if you'd like a `requirements.txt`, GitHub repo setup help, or to automate the merging script with command-line arguments.
-```
-s
